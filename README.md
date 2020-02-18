@@ -8,6 +8,11 @@ The Tolman-Oppenheimer-Volkoff equation allows to determine the stable regions f
 
 See also https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit .
 
+The Mass-Radius relationship has a funny curl at the end:
+![MR Figure](/MR.png)
+
+This is actually the unstable region, where the object collapses under its own gravitational pressure and forms a black hole.
+
 ## Running oppenheimer.cc
 g++ oppenheimer.cc -o oppenheimer
 ./oppenheimer
