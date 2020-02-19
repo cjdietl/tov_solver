@@ -2,7 +2,7 @@
 
 ## Background
 
-<img align="right" src="https://github.com/cjdietl/tov_solver/blob/master/MR.png">
+<img align="right" src="https://github.com/cjdietl/tov_solver/blob/master/MR_a.png">
 
 This is part of the code for my paper ['Properties of gravitationally bound dark compact ultra dense objects'](http://linkinghub.elsevier.com/retrieve/pii/S0370269312001463). It basically solves the differential equations laid out in the seminal paper ['On Massive Neutron Cores'](http://prola.aps.org/abstract/PR/v55/i4/p374_1) by J. R. Oppenheimer and G. M. Volkoff. 
 
